@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>网站日志</title>
+    <url>/posts/0/</url>
+    <content><![CDATA[<h1 id="更新于2024-10-19"><a href="#更新于2024-10-19" class="headerlink" title="更新于2024-10-19"></a>更新于2024-10-19</h1><h2 id="2024-10-20："><a href="#2024-10-20：" class="headerlink" title="2024-10-20："></a>2024-10-20：</h2><ul>
+<li>netlify被墙，换<strong>cloudflare pages</strong>服务，dns也换成<a class="link"   href="https://www.cloudflare-cn.com/" >cloudflare<i class="fas fa-external-link-alt"></i></a>,至此全面托管于<strong>cloudflare</strong></li>
+<li>使用<a class="link"   href="https://console.leancloud.app/" >Leancloud<i class="fas fa-external-link-alt"></i></a>数据库-&gt;<a class="link"   href="https://vercel.com/" >vercel<i class="fas fa-external-link-alt"></i></a>部署-&gt;<a class="link"   href="https://waline.js.org/" >Waline<i class="fas fa-external-link-alt"></i></a>评论系统</li>
+</ul>
+<h2 id="2024-10-19："><a href="#2024-10-19：" class="headerlink" title="2024-10-19："></a>2024-10-19：</h2><p>今日建站</p>
+<ul>
+<li>网站托管于<strong>netlify</strong>使用<a href="https://hexo.io/"><strong>hexo</strong></a>+<a href="https://keep-docs.xpoet.cn/"><strong>keep</strong></a>主题</li>
+<li>使用<a class="link"   href="https://github.com/rozbo/hexo-abbrlink2" >abbrlink2<i class="fas fa-external-link-alt"></i></a>插件,生成顺序数字网址</li>
+<li>使用<a class="link"   href="https://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap" >hexo-generator-seo-friendly-sitemap<i class="fas fa-external-link-alt"></i></a>插件，生成对hexo友好的站点地图，便于搜索引擎寻找索引</li>
+<li>使用<a class="link"   href="https://github.com/hexojs/hexo-generator-feed" >hexo-generator-feed<i class="fas fa-external-link-alt"></i></a>插件，生成atom和rss2</li>
+<li>使用<a class="link"   href="https://github.com/ohroy/hexo-neat" >hexo-neat<i class="fas fa-external-link-alt"></i></a>插件，压缩网站资源</li>
+<li>使用<a class="link"   href="https://github.com/hexojs/hexo-deployer-git" >hexo-deployer-git<i class="fas fa-external-link-alt"></i></a>插件，提交到github库</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《圣经空战（空调战争期间》</title>
+    <url>/posts/1/</url>
+    <content><![CDATA[<h2 id="本条目仅作历史备份"><a href="#本条目仅作历史备份" class="headerlink" title="本条目仅作历史备份"></a>本条目仅作历史备份</h2><blockquote>
+<p><a class="link"   href="https://www.gushiwen.cn/mingju/juv.aspx?id=62df146f6940" >以铜为镜，可以正衣冠；以古为镜，可以知兴替；以人为镜，可以明得失<i class="fas fa-external-link-alt"></i></a><br>大部分出自百度贴吧，反映了当时的贴吧状态，亦是矛盾最激烈的时期</p>
+</blockquote>
+<ul>
+<li><p>小西门，拧门锁了</p>
+<blockquote>
+<p>特指 <del>xxm</del> 对东大的影响</p>
+</blockquote>
+</li>
+<li><p>东大信息类毕业的，哪个就业不顶<br>读错专业了，天天在这，不如大工不如什么的<br>那是你那破专业<br>别带计算机软件自动化<br>就业都很顶，深造也很好<br>轮不到你们天天在这哔哔哔哔哔的<br>不能读就回家去</p>
+<blockquote>
+<p>出处待查</p>
+</blockquote>
+</li>
+<li><p>准备好给你们净净网<br>已经举报给学生处团委招生办了<br>那几个的ID我劝你，网爆违法，回头是岸<br>别因为这个事闹大了收不了场<br>学校会安排专门人监督你们贴吧言行<br>你现在有多爽，然后就有多难看</p>
+<blockquote>
+<p>克列采尔语录</p>
+</blockquote>
+</li>
+<li><p>喜欢骂人带节奏的<br>你骂的多开心<br>都有IP地址的<br>到时候就有多难看<br>让你们辅导员挨个找你聊聊，需要的话，作为老学长也可以陪你们聊聊<br>我相信，在这里脏话连篇的人，可能现实中说话脸都红<br>这也是我东的传统了，在校时期就经常有这样的事件发生<br>对了<br>那几个社会闲杂人员，一个也跑不了</p>
+<blockquote>
+<p>克列采尔语录</p>
+</blockquote>
+</li>
+<li><p>感觉最近贴吧的戾气怎么这么重啊？感觉北方学校宿舍有空调的也是少数吧。我们当时住老二舍，40°小学期在小教室画A0工图，热到脱水才回寝室休息。大家戾气也没这么重啊。东北大学经费确实少，甚至比不过南方有些211，基础设施也跟不上时代了，但学校也尽力去改善了啊，包括建新二舍，翻新一舍。新二舍环境还是很好的。所以少点抱怨吧，也改变不了什么。我感觉你们注意力应该放在提升自己上，把东北大学当作跳板研究生去更好的学校，吃点苦没什么坏处，多提升自己才是王道，你要是保研或考公的话，东北大学优势还是比211大很多的。</p>
+<blockquote>
+<p>贴吧某学长语录。请注意<strong>东北大学</strong>已于<strong>2024年5月安装空调</strong> </p>
+</blockquote>
+</li>
+<li><p>很是苦恼，你劝退后总有人来，然后让低分检漏，然后低分再劝退，然后每年分数线下降。现在我也劝退了，和一群奋力凿破船的dinner在一起，然后一起沉底。所以别来了，和这群dinner在一起还不如复读冲华五呢。</p>
+<blockquote>
+<p>待查证</p>
+</blockquote>
+</li>
+<li><p><del>东b你天天出现在那个名单中给985丢尽了脸你天天在互联网大厂装b不知道的人以为你在好好搞计算机和软件知道的人都知道你是抄人家东A的研究成果在学科评估装逼录取分数线这么低的大学怎么可能是双一流</del></p>
+<blockquote>
+<p>待查证</p>
+</blockquote>
+</li>
+<li><p><del>东b大一在读，没空调怎么了。南方鼠鼠初中高中宿舍都有空调这样的艰苦环境都过来了，<br>你东还在北方，要什么空调。成天大工好，哈工好的。<br>也不看看你，高考分数和人家的差距。<br>最近贴里出现有组织有预谋的要求装空调的无理要求。<br>你现在敢要求这，要求那，以后还想要啥，想都不敢想。<br>老老实实的给我呆着，能读就读，读不了我<br>劝你早点滚</del></p>
+<blockquote>
+<p>待查证</p>
+</blockquote>
+</li>
+<li><p><del>东B哪点差了，除了xxm确实**之外。在东B这个分数段的，想上计算机软件自动化的。东B就是最优解。除了东大，就只有吉大，湖大(这个分数更高）。你说你要选南方211?升学就业真不如东B。你东B升学真比211强点。南方211也只能选武汉理工，西南交大。连南航南理都难。综上所述，你东B就是末九计算机分数段最优解。不服来辩。<br>?你东B夏天确实热，这个是绝对的缺点。无话可说，但吉大也一样没空调。实在受不了，在外面租两个月房，也就两三千。比去211的代价小多了。</del></p>
+<blockquote>
+<p>待查证</p>
+</blockquote>
+</li>
+<li><p>我感觉那些不是东大的学生，这几天是热，但东北的吉林大学，东北大学，大连理工大学都莫滴空调。再说进群就乱说，显摆绩点，一点礼貌都莫滴，跟家长说话一句叔叔阿姨都没有，再说东大的孩子是爱东大的，这是最基本的。应该不是东大的学生，感觉是其他大学水军来黑东大的，或者是某些填报志愿机构来黑东（大的）</p>
+<blockquote>
+<p>待查证</p>
+</blockquote>
+</li>
+<li><p>东大建校90多年了，之前怎么没那么多事？看你这智商应该不是东大学生<br>那倒也是，我们之前夏天都得盖棉被<br>还小鬼，我玩贴吧是你都没出生<br>抗热和体质没关系，主要是看意志品质，和家教关系大<br>你话那么多难道是卖空调的？真不知道你良心去哪了，为了挣钱在这带节奏蛊惑孩子</p>
+<blockquote>
+<p>待查证</p>
+</blockquote>
+</li>
+<li><p>教育部都不分双一流AB了，怎么有人没完没了呢？<br>当年提这个B类的就是个笑话，事实证明这个事情也没了<br>这要是别的贴吧，天天叫B的都估计得被封号，这个吧天天自黑自黑上瘾<br>高考季你们就作死吧<br>弄得分数线断档，弄的全世界都知道东大学生自己叫自己东B<br>你们毕业工作用人单位都嫌弃<br>当年东大学子还知道民族有难，游个行，争取一下呢，东北工学院复命还知道给教育部写信呢<br>现在到好，被有些人带的，成什么样子了<br>一副作死还来着别人陪葬的<br>看看人家别的学校的，自己吵归吵，但是对外一致，你去别的学校说一个他们不好试试？<br>来这里不一样，有人来挑事，简直里应外合，自黑＋带节奏<br>别影响了我们毕业生工作别人对东大的看法，评价已经在直线下坡了就是这帮人带的</p>
+<blockquote>
+<p>待查证</p>
+</blockquote>
+</li>
+<li><p><del>不用可惜遗憾分数线低了，贴吧这样换我我也不来<br>东B东B继续叫吧<br>东大以前从来没承认过自己不如大连理工，看你们一个个跪舔的样子<br>劝两句就反串护校狗<br>贴吧里一堆外面的社会混子，挑事黑<br>小吧在这里天天挂人，你挂啊？<br>自己作死吧</del><br><del>《圣经·B约·传时（法院传票时代）》</del></p>
+<blockquote>
+<p>待查证</p>
+</blockquote>
+</li>
+<li><p>统一通知，广东起诉，记得提前买机票<br>传票电话留辅导员电话，记得解释清楚<br>作为你们学长，在咨询</p>
+<blockquote>
+<p>克列采而语录</p>
+</blockquote>
+</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>历史备份</tag>
+      </tags>
+  </entry>
+</search>
