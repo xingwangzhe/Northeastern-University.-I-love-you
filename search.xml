@@ -3,7 +3,9 @@
   <entry>
     <title>网站日志</title>
     <url>/posts/0/</url>
-    <content><![CDATA[<h1 id="更新于2024-10-19"><a href="#更新于2024-10-19" class="headerlink" title="更新于2024-10-19"></a>更新于2024-10-19</h1><h2 id="2024-10-20："><a href="#2024-10-20：" class="headerlink" title="2024-10-20："></a>2024-10-20：</h2><ul>
+    <content><![CDATA[<h1 id="更新于2024-10-20"><a href="#更新于2024-10-20" class="headerlink" title="更新于2024-10-20"></a>更新于2024-10-20</h1><span id="more"></span>
+
+<h2 id="2024-10-20："><a href="#2024-10-20：" class="headerlink" title="2024-10-20："></a>2024-10-20：</h2><ul>
 <li>netlify被墙，换<strong>cloudflare pages</strong>服务，dns也换成<a class="link"   href="https://www.cloudflare-cn.com/" >cloudflare<i class="fas fa-external-link-alt"></i></a>,至此全面托管于<strong>cloudflare</strong></li>
 <li>使用<a class="link"   href="https://console.leancloud.app/" >Leancloud<i class="fas fa-external-link-alt"></i></a>数据库-&gt;<a class="link"   href="https://vercel.com/" >vercel<i class="fas fa-external-link-alt"></i></a>部署-&gt;<a class="link"   href="https://waline.js.org/" >Waline<i class="fas fa-external-link-alt"></i></a>评论系统</li>
 </ul>
@@ -24,7 +26,9 @@
   <entry>
     <title>《圣经空战（空调战争期间》</title>
     <url>/posts/1/</url>
-    <content><![CDATA[<h2 id="本条目仅作历史备份"><a href="#本条目仅作历史备份" class="headerlink" title="本条目仅作历史备份"></a>本条目仅作历史备份</h2><blockquote>
+    <content><![CDATA[<h2 id="本条目仅作历史备份"><a href="#本条目仅作历史备份" class="headerlink" title="本条目仅作历史备份"></a>本条目仅作历史备份</h2><span id="more"></span>
+
+<blockquote>
 <p><a class="link"   href="https://www.gushiwen.cn/mingju/juv.aspx?id=62df146f6940" >以铜为镜，可以正衣冠；以古为镜，可以知兴替；以人为镜，可以明得失<i class="fas fa-external-link-alt"></i></a><br>大部分出自百度贴吧，反映了当时的贴吧状态，亦是矛盾最激烈的时期</p>
 </blockquote>
 <ul>
@@ -102,6 +106,26 @@
 ]]></content>
       <tags>
         <tag>历史备份</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>汇聚教育精英，携手开启推免招生新征程</title>
+    <url>/posts/2/</url>
+    <content><![CDATA[<p>本文引用于<a class="link"   href="https://mp.weixin.qq.com/s/X53oth1CgwDdQur8PND2_g" >凝聚师资力量，共同谱写推免招生新篇章<i class="fas fa-external-link-alt"></i></a>，详情请查看原文</p>
+<span id="more"></span>
+
+<h2 id="挑战"><a href="#挑战" class="headerlink" title="挑战"></a>挑战</h2><p>在东北大学深部工程与智能技术研究院，全体教师凝聚了强大的师资力量，共同面对硕士推免招生工作的新挑战。面对艰苦专业生源不足的困境，研究院没有坐等机会，而是采取了积极主动的策略。</p>
+<h2 id="行动"><a href="#行动" class="headerlink" title="行动"></a>行动</h2><p>教学秘书顾亮联络其他专业充足且优秀生源，转报工程力学。在首轮只有5名预报名的情况下最终联系了15名推免同学走入研究院，近距离感受研究院的科研氛围和文化。同时，为遴选出优秀生源，改变考核方式，采用无领导小组考核方式，对申请者的综合素质进行全面考察。通过层层筛选和严格把关，最终参加面试的15名同学在正式报名中填报东北大学，根据招生计划择优录取11名同学，为工程力学学科发展提供了优质生源保障。</p>
+<h2 id="考核"><a href="#考核" class="headerlink" title="考核"></a>考核</h2><p>为了确保从这些申请者中遴选出最优秀的生源，研究院改变了传统的考核方式，采用了无领导小组讨论的考核方法。这种方法能够更全面地考察申请者的综合素质，包括他们的团队合作能力、领导力、沟通技巧以及创新思维。通过这种方式，研究院能够更准确地评估每位申请者的实际能力和潜力。</p>
+<h2 id="录取"><a href="#录取" class="headerlink" title="录取"></a>录取</h2><p>在经过严格的筛选和评估过程后，15名参加面试的同学在正式报名时选择了东北大学。研究院根据招生计划，择优录取了其中的11名同学。这一过程不仅体现了研究院对招生质量的高要求，也为工程力学学科的发展提供了坚实的优质生源保障。通过这些努力，研究院成功地为学科的未来发展打下了坚实的基础。</p>
+]]></content>
+      <categories>
+        <category>资源与土木</category>
+      </categories>
+      <tags>
+        <tag>历史备份</tag>
+        <tag>win</tag>
+        <tag>资源与土木</tag>
       </tags>
   </entry>
 </search>
