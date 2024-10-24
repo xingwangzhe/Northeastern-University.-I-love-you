@@ -21,6 +21,29 @@
       </tags>
   </entry>
   <entry>
+    <title>网站日志</title>
+    <url>/2024/43905/</url>
+    <content><![CDATA[<h1 id="更新于2024-10-20"><a href="#更新于2024-10-20" class="headerlink" title="更新于2024-10-20"></a>更新于2024-10-20</h1><span id="more"></span>
+
+<h2 id="2024-10-20："><a href="#2024-10-20：" class="headerlink" title="2024-10-20："></a>2024-10-20：</h2><ul>
+<li>netlify被墙，换<strong>cloudflare pages</strong>服务，dns也换成<a class="link"   href="https://www.cloudflare-cn.com/" >cloudflare<i class="fas fa-external-link-alt"></i></a>,至此全面托管于<strong>cloudflare</strong></li>
+<li>使用<a class="link"   href="https://console.leancloud.app/" >Leancloud<i class="fas fa-external-link-alt"></i></a>数据库-&gt;<a class="link"   href="https://vercel.com/" >vercel<i class="fas fa-external-link-alt"></i></a>部署-&gt;<a class="link"   href="https://waline.js.org/" >Waline<i class="fas fa-external-link-alt"></i></a>评论系统</li>
+</ul>
+<h2 id="2024-10-19："><a href="#2024-10-19：" class="headerlink" title="2024-10-19："></a>2024-10-19：</h2><p>今日建站</p>
+<ul>
+<li>网站托管于<strong>netlify</strong>使用<a href="https://hexo.io/"><strong>hexo</strong></a>+<a href="https://keep-docs.xpoet.cn/"><strong>keep</strong></a>主题</li>
+<li>使用<a class="link"   href="https://github.com/rozbo/hexo-abbrlink2" >abbrlink2<i class="fas fa-external-link-alt"></i></a>插件,生成顺序数字网址</li>
+<li>使用<a class="link"   href="https://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap" >hexo-generator-seo-friendly-sitemap<i class="fas fa-external-link-alt"></i></a>插件，生成对hexo友好的站点地图，便于搜索引擎寻找索引</li>
+<li>使用<a class="link"   href="https://github.com/hexojs/hexo-generator-feed" >hexo-generator-feed<i class="fas fa-external-link-alt"></i></a>插件，生成atom和rss2</li>
+<li>使用<a class="link"   href="https://github.com/ohroy/hexo-neat" >hexo-neat<i class="fas fa-external-link-alt"></i></a>插件，压缩网站资源</li>
+<li>使用<a class="link"   href="https://github.com/hexojs/hexo-deployer-git" >hexo-deployer-git<i class="fas fa-external-link-alt"></i></a>插件，提交到github库</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>日志</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《圣经空战（空调战争期间》</title>
     <url>/2024/60211/</url>
     <content><![CDATA[<h2 id="本条目仅作历史备份"><a href="#本条目仅作历史备份" class="headerlink" title="本条目仅作历史备份"></a>本条目仅作历史备份</h2><span id="more"></span>
@@ -103,29 +126,6 @@
 ]]></content>
       <tags>
         <tag>历史备份</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>网站日志</title>
-    <url>/2024/43905/</url>
-    <content><![CDATA[<h1 id="更新于2024-10-20"><a href="#更新于2024-10-20" class="headerlink" title="更新于2024-10-20"></a>更新于2024-10-20</h1><span id="more"></span>
-
-<h2 id="2024-10-20："><a href="#2024-10-20：" class="headerlink" title="2024-10-20："></a>2024-10-20：</h2><ul>
-<li>netlify被墙，换<strong>cloudflare pages</strong>服务，dns也换成<a class="link"   href="https://www.cloudflare-cn.com/" >cloudflare<i class="fas fa-external-link-alt"></i></a>,至此全面托管于<strong>cloudflare</strong></li>
-<li>使用<a class="link"   href="https://console.leancloud.app/" >Leancloud<i class="fas fa-external-link-alt"></i></a>数据库-&gt;<a class="link"   href="https://vercel.com/" >vercel<i class="fas fa-external-link-alt"></i></a>部署-&gt;<a class="link"   href="https://waline.js.org/" >Waline<i class="fas fa-external-link-alt"></i></a>评论系统</li>
-</ul>
-<h2 id="2024-10-19："><a href="#2024-10-19：" class="headerlink" title="2024-10-19："></a>2024-10-19：</h2><p>今日建站</p>
-<ul>
-<li>网站托管于<strong>netlify</strong>使用<a href="https://hexo.io/"><strong>hexo</strong></a>+<a href="https://keep-docs.xpoet.cn/"><strong>keep</strong></a>主题</li>
-<li>使用<a class="link"   href="https://github.com/rozbo/hexo-abbrlink2" >abbrlink2<i class="fas fa-external-link-alt"></i></a>插件,生成顺序数字网址</li>
-<li>使用<a class="link"   href="https://github.com/ludoviclefevre/hexo-generator-seo-friendly-sitemap" >hexo-generator-seo-friendly-sitemap<i class="fas fa-external-link-alt"></i></a>插件，生成对hexo友好的站点地图，便于搜索引擎寻找索引</li>
-<li>使用<a class="link"   href="https://github.com/hexojs/hexo-generator-feed" >hexo-generator-feed<i class="fas fa-external-link-alt"></i></a>插件，生成atom和rss2</li>
-<li>使用<a class="link"   href="https://github.com/ohroy/hexo-neat" >hexo-neat<i class="fas fa-external-link-alt"></i></a>插件，压缩网站资源</li>
-<li>使用<a class="link"   href="https://github.com/hexojs/hexo-deployer-git" >hexo-deployer-git<i class="fas fa-external-link-alt"></i></a>插件，提交到github库</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>日志</tag>
       </tags>
   </entry>
 </search>
