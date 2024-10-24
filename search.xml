@@ -23,8 +23,12 @@
   <entry>
     <title>网站日志</title>
     <url>/2024/43905/</url>
-    <content><![CDATA[<h1 id="更新于2024-10-20"><a href="#更新于2024-10-20" class="headerlink" title="更新于2024-10-20"></a>更新于2024-10-20</h1><span id="more"></span>
+    <content><![CDATA[<h1 id="更新于2024-10-24"><a href="#更新于2024-10-24" class="headerlink" title="更新于2024-10-24"></a>更新于2024-10-24</h1><span id="more"></span>
 
+<h2 id="2024-10-24"><a href="#2024-10-24" class="headerlink" title="2024-10-24"></a>2024-10-24</h2><ul>
+<li>改用<a class="link"   href="https://github.com/JunKuangKuang/hexo-abbrlink3" >abbrlink3<i class="fas fa-external-link-alt"></i></a>插件</li>
+<li></li>
+</ul>
 <h2 id="2024-10-20："><a href="#2024-10-20：" class="headerlink" title="2024-10-20："></a>2024-10-20：</h2><ul>
 <li>netlify被墙，换<strong>cloudflare pages</strong>服务，dns也换成<a class="link"   href="https://www.cloudflare-cn.com/" >cloudflare<i class="fas fa-external-link-alt"></i></a>,至此全面托管于<strong>cloudflare</strong></li>
 <li>使用<a class="link"   href="https://console.leancloud.app/" >Leancloud<i class="fas fa-external-link-alt"></i></a>数据库-&gt;<a class="link"   href="https://vercel.com/" >vercel<i class="fas fa-external-link-alt"></i></a>部署-&gt;<a class="link"   href="https://waline.js.org/" >Waline<i class="fas fa-external-link-alt"></i></a>评论系统</li>
